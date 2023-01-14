@@ -1,0 +1,4 @@
+This application does not collect or store personal data.
+
+We are using Openai's API for the email summary.
+Please see the privacy policy for Openai Services here: https://openai.com/privacy/
